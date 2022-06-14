@@ -10,6 +10,10 @@ Voici la liste des différents fichiers proposés dans CheckIt-0 :
 			<th>Nom</th>
 			<th>Description</th>	
 		</tr>
+	        <tr>
+			<td><b>CHECKIT.PAS</b></td>
+			<td>Cette commande permet de lancer le menu de CheckIt. Cette commande est une clone de la série d'utilitaires <a href="https://www.gladir.com/SOFTWARE/CHECKIT/presentation.htm">CheckIt</a>.</td>
+		</tr>
 		<tr>
 			<td><b>CKCMOS.PAS</b></td>
 			<td>Cette commande permet de sauvegarder ou restaurer les données du CMOS du système. Cette commande est un clone de la commande <a href="https://www.gladir.com/SOFTWARE/CHECKIT/ckcmos.htm">CKCMOS</a> de la série d'utilitaires <a href="https://www.gladir.com/SOFTWARE/CHECKIT/presentation.htm">CheckIt</a>.</td>
