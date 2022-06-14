@@ -1,6 +1,8 @@
 # CheckIt-0
 Clone des commandes du CheckIt écrit en Pascal.
 
+![image](https://user-images.githubusercontent.com/11842176/173472724-97e50fd0-eed4-4e71-98c6-b6ac585030a8.png)
+
 <h2>Liste des fichiers</h2>
 
 Voici la liste des différents fichiers proposés dans CheckIt-0 :
