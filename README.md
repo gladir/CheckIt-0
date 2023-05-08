@@ -22,6 +22,12 @@ Voici la liste des différents fichiers proposés dans CheckIt-0 :
 		</tr>
 </table>
 
+<h3>Remarque</h3>
+<ul>
+	<li>La commande "CKCMOS.PAS" a été bonifié de la commande /AMDEK pour rechercher sur les micro-ordinateurs <a href="https://www.gladir.com/LEXIQUE/SYSTEM/amdeksystem88.htm">Admek System/88</a>.</li>
+</ul>
+
+
 <h2>Compilation</h2>
 	
 Les fichiers Pascal n'ont aucune dépendances, il suffit de télécharger le fichier désiré et de le compiler avec Free Pascal avec la syntaxe de commande  :
